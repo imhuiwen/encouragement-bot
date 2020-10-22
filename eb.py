@@ -33,7 +33,7 @@ while True:
       counter += 1
     if each_word == "troubled":
       feelings_list.append("troubled")
-      encouragement_list.append("that your troubles will end! i'm sure you will somehow overcome it all")
+      encouragement_list.append("that your troubles will end! there is always light at the end of the tunnel! i'm sure you will somehow overcome it all")
       counter += 1
     if each_word == "lonely":
       feelings_list.append("lonely")
