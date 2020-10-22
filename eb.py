@@ -35,6 +35,10 @@ while True:
       feelings_list.append("troubled")
       encouragement_list.append("that your troubles will end! i'm sure you will somehow overcome it all")
       counter += 1
+    if each_word == "lonely":
+      feelings_list.append("lonely")
+      encouragement_list.append("that your friends are always ther for you!hou 'bout talking to them?")
+      counter += 1  
   if counter == 0:
     
       output = "sorry, I don't really understand. why not try using different words instead!"
